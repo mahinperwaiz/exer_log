@@ -40,6 +40,9 @@ Body metrics:
 - Chest size
 - Wrist size
 - Thigh size
+- Biceps size
+- Hips size
+- Shoulder size
 
 ## Contributing
 
